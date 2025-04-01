@@ -23,15 +23,15 @@ Windows環境向けにGUIと自動仮想環境構築バッチによって、誰�
 ## 📁 フォルダ構成
 
 VALLEX_Distributable\
-    ├─ Python310\
-    │   └─ # 通常版Python（パス未設定） 
-    ├─ valle_env\
-    │   └─ # 仮想環境（初回setupで自動生成） 
-    ├─ VALLEX\
-    │   └─ VALL-E-X本体及びGUIスクリプト 
-    ├─ installer.bat # セットアップバッチ 
-    ├─ run.bat # GUI起動バッチ 
-    └─ README.md
+ ├─ Python310\
+ │   └─ # 通常版Python（パス未設定） 
+ ├─ valle_env\
+ │   └─ # 仮想環境（初回setupで自動生成） 
+ ├─ VALLEX\
+ │   └─ VALL-E-X本体及びGUIスクリプト 
+ ├─ installer.bat # セットアップバッチ 
+ ├─ run.bat # GUI起動バッチ 
+ └─ README.md
 
 ## 💬 使用技術
 
